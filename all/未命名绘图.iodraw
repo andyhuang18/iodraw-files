@@ -16,7 +16,7 @@
         <mxCell id="-kz1Yy3n7HaMzbDAYoQ0-4" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329" y="437" width="70" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-kz1Yy3n7HaMzbDAYoQ0-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-kz1Yy3n7HaMzbDAYoQ0-1" target="-kz1Yy3n7HaMzbDAYoQ0-2">
+        <mxCell id="-kz1Yy3n7HaMzbDAYoQ0-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="-kz1Yy3n7HaMzbDAYoQ0-1" target="-kz1Yy3n7HaMzbDAYoQ0-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="305" y="314" />
